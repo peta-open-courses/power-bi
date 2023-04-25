@@ -7,12 +7,12 @@ As you progress, you’ll start building your own dataflows, gain an understandi
 
 By the end of this Power BI course, you’ll know how to get the most out of Power BI for better business intelligence.
 
-# What you will learn
+## What you will learn
 
-Connect to data sources using import, DirectQuery, and live connection options
-Use Power Query Editor for data transformation and data cleansing processes, and write M and R scripts and dataflows to do the same in the cloud
-Design effective reports with built-in and custom visuals to optimize user experience
-Implement row-level and column-level security in your dashboards
-Administer a Power BI cloud tenant for your organization
-Use built-in AI capabilities to enhance Power BI data transformation techniques
-Deploy your Power BI Desktop files into Power BI Report Server
+* Connect to data sources using import, DirectQuery, and live connection options
+* Use Power Query Editor for data transformation and data cleansing processes, and write M and R scripts and dataflows to do the same in the cloud
+* Design effective reports with built-in and custom visuals to optimize user experience
+* Implement row-level and column-level security in your dashboards
+* Administer a Power BI cloud tenant for your organization
+* Use built-in AI capabilities to enhance Power BI data transformation techniques
+* Deploy your Power BI Desktop files into Power BI Report Server
